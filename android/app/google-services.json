@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "881863796407",
+    "project_id": "alumni-portal-e8a11",
+    "storage_bucket": "alumni-portal-e8a11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881863796407:android:953381f5ee9736c5f94f32",
+        "android_client_info": {
+          "package_name": "com.example.AlumniPortal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881863796407-rh8e145d56079vpu0ab6od7b6nkl6m7e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1-8BHCuJNo-n-KsqIX6qBposP7tucCvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881863796407-rh8e145d56079vpu0ab6od7b6nkl6m7e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
